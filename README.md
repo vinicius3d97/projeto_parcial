@@ -1,4 +1,4 @@
-# base
+# Projeto Prático - Novas Tecnologias de Informação e Comunicação
 
 A new Flutter project.
 
